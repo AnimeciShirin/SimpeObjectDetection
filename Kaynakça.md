@@ -9,4 +9,4 @@
 [https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a)
 
 ## Object Detection Kodları
-<img src=https://i.imgur.com/E2WNf1o.png>
+<img src=https://i.imgur.com/wBa34S7.png>
